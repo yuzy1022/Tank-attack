@@ -1,5 +1,5 @@
 # Tank-attack
-
+![image](https://github.com/yuzy1022/Tank-attack/assets/112682861/749cb7f4-522c-465d-a794-ca2eafd555dd)  
 탱크를 조종하여 필드에서 적 탱크를 파괴하는 탱크 FPS 게임입니다.
 
 프로젝트 진행 기간 : 22.12.12 \~ 22.12.18
